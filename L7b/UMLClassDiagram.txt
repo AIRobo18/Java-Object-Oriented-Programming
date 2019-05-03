@@ -1,0 +1,14 @@
+        Airport
+-	airportCode:String
+-	gates:int
+-	countAirports: int
+
++ Airport()
++	Airport( String airportCode, int gates)
++	getAirportCode: String
++	getGates: int
++	getCountAirports: int
++	setAirportCode(airportCode:String): void
++	setGates(gates:int):void
++	toString(): String
++ equals(other:Airport): boolean

@@ -1,0 +1,36 @@
+SAMPLE RUN #1
+=============
+Reading data from studentsInput.txt
+processing record: Mike Apple&mike1&fruit&3.725
+processing record: Jill Dill&jill2&herb&4.0
+processing record: Jack Pepper&jack3&seasoning&4.3
+processing record: Mary Rose&mary4&flower&2.9999
+
+Finished reading the file studentsInput.txt
+The size of the ArrayList of StudentRecords is: 4
+
+The student records:
+Name: Mike Apple; id: mike1; password: fruit; gpa: 3.73
+Name: Jill Dill; id: jill2; password: herb; gpa: 4.00
+Name: Jack Pepper; id: jack3; password: seasoning; gpa: 4.30
+Name: Mary Rose; id: mary4; password: flower; gpa: 3.00
+
+(Cannot paste picture of studentOutput)
+
+
+SAMPLE RUN #2
+=============
+Reading data from studentsInputErr.txt
+processing record: Mike Apple&mike1&3.725&fruit
+>>>>>>>>>Error in student record: Mike Apple&mike1&3.725&fruit; record ignored<<<<<<<<<<
+processing record: Jill Dill&jill2&herb&4.0
+processing record: Jack Pepper&jack3&seasoning&
+>>>>>>>>>Error in student record: Jack Pepper&jack3&seasoning&; record ignored<<<<<<<<<<
+processing record: Mary Rose&mary4&flower&2.9999
+
+Finished reading the file studentsInputErr.txt
+The size of the ArrayList of StudentRecords is: 2
+
+The student records:
+Name: Jill Dill; id: jill2; password: herb; gpa: 4.00
+Name: Mary Rose; id: mary4; password: flower; gpa: 3.00

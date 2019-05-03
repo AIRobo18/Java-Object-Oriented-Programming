@@ -1,0 +1,13 @@
+Please enter a number greater than 10.0 > 9
+Please enter a number greater than 10.0 > 8
+Please enter a number greater than 10.0 > 10.5
+1. The square root is : 3.24037034920393
+2. The square root is : 1.8001028718392542
+3. The square root is : 1.3416791240230483
+4. The square root is : 1.1583087343290857
+5. The square root is : 1.0762475246564267
+6. The square root is : 1.0374235030383814
+7. The square root is : 1.0185398877993839
+Your number 10.5 took 7 times to square root to get it greater than or equal to 1.01
+
+Process finished with exit code 0

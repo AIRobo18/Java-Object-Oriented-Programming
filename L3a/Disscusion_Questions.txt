@@ -1,0 +1,7 @@
+Discussion questions
+
+1) The reason the day and month value get set back to 1 is because there is not such thing as a 32nd day and a 13th month. If something illegal is typed into the statement then the values
+   set back to the pre-stored info (1/1/2000).
+   
+2) dateObj.setMonth(1); causes the NullPointerException error becuase before this statement we set dateObj to null, thus we said to change the month null to 1. Null is nothing and we 
+   cannot change nothing into somehting without assigning a value to it first. 

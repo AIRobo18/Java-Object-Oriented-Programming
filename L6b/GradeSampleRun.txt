@@ -1,0 +1,13 @@
+Please enter your exam grade 1 > 50
+Please enter your exam grade 2 > -1
+Please enter your exam grade 2 > 76
+Please enter your exam grade 3 > 84
+Please enter your exam grade 4 > 101
+Please enter your exam grade 4 > 110
+Please enter your exam grade 4 > 97
+Please enter your exam grade 5 > 91
+The average grade is: 79.60
+The minimum grade is: 50
+The maximum grade is: 97
+
+Process finished with exit code 0

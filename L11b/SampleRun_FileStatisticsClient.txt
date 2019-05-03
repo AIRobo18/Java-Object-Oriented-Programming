@@ -1,0 +1,108 @@
+Enter the name of the file containing grades (i.e. grades1.txt)
+grades1.txt
+Looking for C:\Users\Robert\Documents\University\IDEA_Comp150\L11b\grades1.txt
+Found the file, it was last modified on Tue Apr 28 16:48:30 PDT 2015
+100
+20
+99
+48
+59
+67
+79
+The input line aabcccdefghijk is not an integer - ignored
+89
+94
+The input line lmnopqrs is not an integer - ignored
+71
+The input line tuvwxzzzzz is not an integer - ignored
+82
+93
+64
+95
+
+***** Grade statistics: *****
+There are 14 grades
+
+The grade average is 75.71
+
+The highest grade is 100.00
+
+The pass rate is 79%
+
+The letter grades are: 
+100 --> A
+20 --> F
+99 --> A
+48 --> F
+59 --> F
+67 --> D
+79 --> C
+89 --> B
+94 --> A
+71 --> C
+82 --> B
+93 --> A
+64 --> D
+95 --> A
+
+Saved grades in "savedGrades.dat" file
+The grades are:[100, 20, 99, 48, 59, 67, 79, 89, 94, 71, 82, 93, 64, 95]
+End of the file "savedGrades.dat" reached
+Closing file
+
+Would you like to analyze data from another file? (yes/no)
+yes
+Enter the name of the file containing grades (i.e. grades1.txt)
+grades2.txt
+Looking for C:\Users\Robert\Documents\University\IDEA_Comp150\L11b\grades2.txt
+Found the file, it was last modified on Tue Apr 28 16:48:30 PDT 2015
+The input line 12abc is not an integer - ignored
+78
+20
+33
+78
+59
+67
+79
+89
+94
+The input line xyz is not an integer - ignored
+77
+82
+93
+99
+95
+The input line seventySix is not an integer - ignored
+
+***** Grade statistics: *****
+There are 14 grades
+
+The grade average is 74.50
+
+The highest grade is 99.00
+
+The pass rate is 79%
+
+The letter grades are: 
+78 --> C
+20 --> F
+33 --> F
+78 --> C
+59 --> F
+67 --> D
+79 --> C
+89 --> B
+94 --> A
+77 --> C
+82 --> B
+93 --> A
+99 --> A
+95 --> A
+
+Saved grades in "savedGrades.dat" file
+The grades are:[78, 20, 33, 78, 59, 67, 79, 89, 94, 77, 82, 93, 99, 95]
+End of the file "savedGrades.dat" reached
+Closing file
+
+Would you like to analyze data from another file? (yes/no)
+no

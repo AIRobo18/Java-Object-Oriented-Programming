@@ -1,0 +1,4 @@
+Name: Mike Apple; id: mike1; password: fruit; gpa: 3.73
+Name: Jill Dill; id: jill2; password: herb; gpa: 4.00
+Name: Jack Pepper; id: jack3; password: seasoning; gpa: 4.30
+Name: Mary Rose; id: mary4; password: flower; gpa: 3.00

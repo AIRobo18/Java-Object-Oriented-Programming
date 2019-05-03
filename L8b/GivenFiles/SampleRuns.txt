@@ -1,0 +1,62 @@
+SAMPLE RUN #1
+=============
+
+--->calling secondary constructor
+The elements of the array sorted in ascending order are: 1 2 3 4 5 6 
+
+The product of all elements in the array is: 720
+The number of swaps was 0
+The array after swaps is: 1 2 3 4 5 6 
+
+
+--->calling reverse method
+The elements of the array sorted in descending order are: 6 5 4 3 2 1 
+
+The product of all elements in the array is: 720
+The number of swaps was 3
+The array after swaps is: 1 2 3 4 5 6 
+
+
+--->calling mutator method
+The elements of the array are: 5 5 6 8 8 6 8 5 6 1 
+
+The product of all elements in the array is: 13824000
+The number of swaps was 3
+The array after swaps is: 1 5 5 8 6 8 8 6 6 5 
+
+
+Enter the number to search for
+ 8
+The number 8 was found at index 3
+
+
+SAMPLE RUN #2
+=============
+
+--->calling secondary constructor
+The elements of the array sorted in ascending order are: 1 2 3 4 5 6 
+
+The product of all elements in the array is: 720
+The number of swaps was 0
+The array after swaps is: 1 2 3 4 5 6 
+
+
+--->calling reverse method
+The elements of the array sorted in descending order are: 6 5 4 3 2 1 
+
+The product of all elements in the array is: 720
+The number of swaps was 3
+The array after swaps is: 1 2 3 4 5 6 
+
+
+--->calling mutator method
+The elements of the array are: 9 2 2 7 5 6 6 6 2 7 
+
+The product of all elements in the array is: 3810240
+The number of swaps was 2
+The array after swaps is: 7 2 2 6 5 6 7 6 2 9 
+
+
+Enter the number to search for
+ 3
+The number 3 was not found

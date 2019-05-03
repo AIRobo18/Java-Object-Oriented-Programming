@@ -1,0 +1,52 @@
+Robert Aroutiounian
+
+SAMPLE RUN #1
+=============
+The grid is:
+0 1 0 0 1 0 
+0 1 1 0 0 0 
+0 1 0 0 0 1 
+0 0 0 0 1 1 
+0 1 1 1 1 0 
+0 0 0 1 1 0 
+
+Can you guess which element I flipped?
+0 1 0 0 1 0 
+0 1 1 0 0 0 
+0 1 0 0 0 0 
+0 0 0 0 1 1 
+0 1 1 1 1 0 
+0 0 0 1 1 0 
+
+What is your guess?
+row (0 - 5) :
+2
+column(0 - 5) :
+5
+Congratulations, you guessed correctly!!!
+
+
+SAMPLE RUN #2
+=============
+The grid is:
+0 1 1 1 0 1 
+0 0 1 1 1 1 
+1 1 0 0 1 1 
+1 0 0 1 1 1 
+1 1 0 0 1 1 
+1 1 0 1 0 1 
+
+Can you guess which element I flipped?
+1 1 1 1 0 1 
+0 0 1 1 1 1 
+1 1 0 0 1 1 
+1 0 0 1 1 1 
+1 1 0 0 1 1 
+1 1 0 1 0 1 
+
+What is your guess?
+row (0 - 5) :
+1
+1column(0 - 5) :
+
+Sorry the correct guess is row:0 column:0

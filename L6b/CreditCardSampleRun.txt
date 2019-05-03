@@ -1,0 +1,24 @@
+Please enter your credit card number > 5
+Please enter your credit card number > 45623486
+The card sum is 38, and this is an invalid number.
+Check another card (y/n)? > y
+Please enter your credit card number > 43589795
+The card sum is 50, and this is a valid number.
+Check another card (y/n)? > n
+Thank you, have a nice day.
+
+Process finished with exit code 0
+
+
+
+
+Please enter your credit card number > 43589799
+The card sum is 54, and this is an invalid number.
+Check another card (y/n)? > y
+Please enter your credit card number > 1234
+Please enter your credit card number > 43589795
+The card sum is 50, and this is a valid number.
+Check another card (y/n)? > n
+Thank you, have a nice day.
+
+Process finished with exit code 0

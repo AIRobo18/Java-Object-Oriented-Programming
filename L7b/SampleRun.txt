@@ -1,0 +1,9 @@
+The airport1 is: The airport code is: IAD
+ The gate number is: 30
+The airport2 is: The airport code is: IAD
+ The gate number is: 30
+countAirports is 2
+Result of comparing airport1 and airport2 with == operator is: airport1 and airport2 are not equal
+Result of comparing airport1 and airport2 with equals method is: airport1 and airport2 are not equal
+
+Process finished with exit code 1
